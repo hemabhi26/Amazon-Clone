@@ -1,11 +1,13 @@
 # Amazon-Clone
 
 
-🛒 Amazon Clone
+🛒 **Amazon Clone**
 
 An Amazon front-end clone built using HTML and CSS, replicating the core UI and look of the Amazon e-commerce platform. This project focuses on responsive design, clean layouts, and smooth navigation to provide a user-friendly experience similar to Amazon.
 
-🚀 Features
+
+
+🚀 **Features**
 
 Homepage with banners, categories, and product sections
 
@@ -17,17 +19,19 @@ Responsive Design for mobile, tablet, and desktop views
 
 Recreated Amazon-style Header & Footer with navigation links and search bar
 
-🛠️ Tech Stack
+
+
+
+🛠️ **Tech Stack**
 
 Frontend: HTML, CSS
 
 Version Control: Git & GitHub
 
-📸 Screenshots
 
-(Add screenshots of Home Page, Product Listings, and Cart Page here)
 
-📈 Learning Outcomes
+
+📈** Learning Outcomes**
 
 Strengthened knowledge of HTML structure and semantics
 
@@ -37,7 +41,10 @@ Learned responsive design principles for cross-device compatibility
 
 Gained experience in Git & GitHub version control
 
-🔮 Future Enhancements
+
+
+
+🔮 **Future Enhancements**
 
 Add JavaScript interactivity (dynamic cart, product filters)
 
